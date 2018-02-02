@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#pagination {
+    width: 90%;
+    height: 50px;
+    margin: 50px auto;
+}
+
+p,
+select,
+ul {
+    float: left;
+    margin-left: 10px;
+}
+
+.list li {
+    float: left;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    margin: 0 3px;
+    cursor: pointer;
+}
+
+input {
+    width: 60px;
+    text-align: center;
+    margin: 0 3px;
+}
